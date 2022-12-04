@@ -11,7 +11,7 @@ include "V_verifica-login.php"
     <title>Hospital Goiás</title>
     <link rel="shortcut icon" href="../imagens/logo_tittle.png">
     
-  <link rel="stylesheet" type="text/css" href="cssHiago2.css"> 
+  <link rel="stylesheet" type="text/css" href="../view/cssHiago2.css"> 
 </head>
 <body>
 
